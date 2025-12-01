@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "【ニコカラ】とりかご【off vocal】",
+  "base_artist": "401 *",
+  "createdAt": "2025-12-01T05:51:18.498115Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トリカゴ",
+      "artist": "PIERROT",
+      "has_synced": false,
+      "path": "select/pl_01_トリカゴ_PIERROT.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "鳥籠 -in this cage-",
+      "artist": "PIERROT",
+      "has_synced": false,
+      "path": "select/pl_02_鳥籠_-in_this_cage-_PIERROT.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "鳥籠の宇宙",
+      "artist": "PIERROT",
+      "has_synced": false,
+      "path": "select/pl_03_鳥籠の宇宙_PIERROT.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "鳥かご",
+      "artist": "PIERROT",
+      "has_synced": false,
+      "path": "select/pl_04_鳥かご_PIERROT.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "鳥籠姫",
+      "artist": "PIERROT",
+      "has_synced": false,
+      "path": "select/pl_05_鳥籠姫_PIERROT.txt"
+    }
+  ]
+}
